@@ -11,7 +11,7 @@ run file named
 **2. run test cases in**
 "nine-mens-morris/NineMensMorris/src/pt/up/fe/ninemensmorris/tests/"
 
-**BoardTests.java**"
+**"BoardTests.java**"
 
 **"MinimaxTests.java"**
 
