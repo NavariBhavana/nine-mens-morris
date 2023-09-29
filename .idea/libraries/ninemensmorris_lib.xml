@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ninemensmorris_lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/standalone_app/ninemensmorris_lib/kryonet-debug-2.18-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/standalone_app/ninemensmorris_lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/standalone_app/ninemensmorris_lib/tween-engine-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/standalone_app/ninemensmorris_lib/org.hamcrest.core_1.1.0.v20090501071000.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
