@@ -7,4 +7,6 @@ to run the project access the main entry point in the program in
 run file named Main.java
 
 
-run test cases in 
+run test cases in   
+"nine-mens-morris/NineMensMorris/src/pt/up/fe/ninemensmorris/tests
+/**BoardTests.java**"
