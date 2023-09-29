@@ -8,5 +8,8 @@ run file named Main.java
 
 
 run test cases in   
-"nine-mens-morris/NineMensMorris/src/pt/up/fe/ninemensmorris/tests
-/**BoardTests.java**"
+"nine-mens-morris/NineMensMorris/src/pt/up/fe/ninemensmorris/tests/
+
+**BoardTests.java**"
+**"MinimaxTests.java"**
+**"PositionTests.java"**
